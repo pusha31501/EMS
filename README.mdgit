@@ -1,0 +1,1 @@
+"# EMS"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/pusha31501/EMS.gitgit push -u origin main
