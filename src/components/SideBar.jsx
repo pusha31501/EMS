@@ -33,7 +33,7 @@ const SideBar = () => {
     window.location.href = "/login";
     console.log("User logged out");
   };
-  const role = " " || "Employee";
+  const role = "" || "Employee";
   const navItem = [
     { name: "Dashboard", href: "/dashboard", icon: LayoutGridIcon },
     role === "ADMIN"
